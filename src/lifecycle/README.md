@@ -1,0 +1,2 @@
+- https://github.com/panaversity/learn-agentic-ai/tree/main/01_ai_agents_first/15_run_lifecycle
+- https://github.com/panaversity/learn-agentic-ai/tree/main/01_ai_agents_first/16_agent_lifecycle
